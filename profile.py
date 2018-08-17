@@ -1,3 +1,5 @@
+#Wow, you typed this quickly! :p
+
 from __future__ import absolute_import, division, print_function
 
 from collections import namedtuple
